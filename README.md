@@ -1,4 +1,4 @@
-# Malicious_URL_Data_Analysis
+# Malicious URL Data Analysis
 
 # Project Summary
 In this scenario, acting as a cybersecurity analyst within a Security Operations Center (SOC), I am analyzing a given dataset focused on incoming web traffic in check of malicious urls and its associated servers on behalf of a company. As part of my analysis, I worked on a dataset that combines real-world data and randomly generated data, to uncover critical business insights.
